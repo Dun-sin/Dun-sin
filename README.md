@@ -6,7 +6,7 @@
 - 🙂 Her soft Skills include Communication Skills, Patience, Incridible Problem solving skills also the abilty to have a great sense of humor, Time management and most importantly the abilty to focus(honestly still working on that one)
 - 💞️ Follow my github to watch out for awesome projects i will be creating
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Dun-sin=&theme=radical)
 <!---
 JceeDunsin/JceeDunsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
