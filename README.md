@@ -2,7 +2,9 @@
   <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="400px" border="0"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dun-sin8&label=Dunsin's%20Profile%20Views%20&color=0F182A&style=plastic" alt="Dunsin" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Dun-sin8&label=Dunsin's%20Profile%20Views%20&color=0F182A&style=plastic" alt="Dunsin" /> 
+</p>
 
 ## Wonderful Intro
 
