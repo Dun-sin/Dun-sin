@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Dun-sin8&label=Dunsin's%20Profile%20Views%20&color=0F182A&style=plastic" alt="Dunsin" /> 
+  <img src="https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A" alt="Dunsin" /> 
 </p>
 
 ## Wonderful Intro
