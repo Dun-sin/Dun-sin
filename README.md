@@ -16,9 +16,11 @@
 
 **[Click Here](https://favour-dunsin.web.app)**.
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=daf7dc&bg_color=0F182A) -->
+## My Github Stats:
 
-## My Github Streak:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=daf7dc&bg_color=0F182A)
+
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&theme=dark&background=0F182A&ring=0195FF&fire=blue)
 
