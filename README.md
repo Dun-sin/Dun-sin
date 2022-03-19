@@ -2,9 +2,9 @@
   <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="400px" border="0"></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A" alt="Dunsin" /> 
-</p>
+ 
+ ## Profile View Count
+ ![](https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A)
 
 ## Wonderful Intro
 
