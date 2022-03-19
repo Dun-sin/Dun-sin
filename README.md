@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/{Dun-sin}/count.svg" alt="Dunsin" /> 
+  <img src="https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A" alt="Dunsin" /> 
 </p>
 
 ## Wonderful Intro
