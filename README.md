@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="400px" border="0"></a>
+  <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="250px" border="0"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A)
