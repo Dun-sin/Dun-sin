@@ -13,7 +13,7 @@
 👀 A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
 ✈️ Dunsin uses the MERN stack (MongoDB, Express, React, NodeJS) which makes her a full-stack JavaScript developer.<br/>
 😍 Dunsin is 18 years old and in her third year at university studying computer science.<br/>
-🚀 Dunsin's hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music are also among his favorites.<br/>
+🚀 Dunsin's hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
 🙂 Communication Skills, Patience, and an ability to solve problems are all soft skills she has, as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
 💞️ Follow my github to stay updated on my amazing projects.<br/>
 </p>
