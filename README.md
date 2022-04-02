@@ -2,21 +2,20 @@
   <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="250px" border="0"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Dun-sin&color=0F182A)
+[![Visits Badge](https://badges.pufler.dev/visits/Dun-sin/Dun-sin?color=0F182A&style=for-the-badge)](https://github.com/Dun-sin)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/Dunsin_codes?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/Dunsin_codes)
 
 ## Wonderful Intro
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dunsin</h1>
-<h3 align="center">I'm a Full Stack Developer from Nigeria.</h3>
+I'm a Full Stack Developer from Nigeria
 
-<p align="center">
-👀 A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
-✈️ Dunsin uses the MERN stack (MongoDB, Express, React, NodeJS) which makes her a full-stack JavaScript developer.<br/>
-😍 Dunsin is 18 years old and in her third year at university studying computer science.<br/>
-🚀 Dunsin's hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
-🙂 Communication Skills, Patience, and an ability to solve problems are all soft skills she has, as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-💞️ Follow my github to stay updated on my amazing projects.<br/>
-</p>
+👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
+✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS) which makes me a full-stack JavaScript developer.<br/>
+😍 &nbsp;I'm 18 years old and in my third year at university studying computer science.<br/>
+🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video gamesand coding (as a Developer and all). Watching movies and listening to music<br/>
+🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
+💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
 
 ## My Portfolio:
 
