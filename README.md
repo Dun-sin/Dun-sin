@@ -66,6 +66,9 @@ I'm a Full Stack Developer from Nigeria
   &emsp;
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin) 
+![GitHub metrics](https://metrics.lecoq.io/dun-sin)  
+
 ## Connect with me:
 
 <p align="center">
