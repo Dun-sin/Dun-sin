@@ -3,7 +3,7 @@
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Dun-sin/Dun-sin?color=0F182A&style=for-the-badge)](https://github.com/Dun-sin)
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/Dunsin_codes?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/Dunsin_codes)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/Dunsin_codes?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/Dunsin_Codes2)
 
 ## Wonderful Intro
 
