@@ -10,7 +10,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dunsin</h1>
 I'm a Full Stack Developer from Nigeria
 
-<p width="65%">
+<p style="width: 65%;">
   👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
 ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
 😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
