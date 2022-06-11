@@ -24,7 +24,6 @@ I'm a Full Stack Developer from Nigeria
 ## My Github Stats:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dun-sin&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Dunsin Stats" />
 </p>
 <p align="center">
