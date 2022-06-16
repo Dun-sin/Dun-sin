@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="#"><img src="https://i.ibb.co/bdszcTs/undraw-Reading-re-29f8.png" alt="undraw-Reading-re-29f8" height="250px" border="0"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/78784850/174076428-0b8a8881-9b04-4194-b307-44885ee8c7df.jpg" alt="header" border="0"></a>
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Dun-sin/Dun-sin?color=0F182A&style=for-the-badge)](https://github.com/Dun-sin)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev)
 
 ## Wonderful Intro
-
-trrrgrgrgr
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dunsin</h1>
 I'm a Full Stack Developer from Nigeria
