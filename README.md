@@ -7,7 +7,7 @@
 
 ## Wonderful Intro
 
-<p align="center" width="400">
+<p align="center" width="200">
   <p>
   👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
 ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
