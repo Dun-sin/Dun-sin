@@ -8,21 +8,21 @@
 ## Wonderful Intro
 
 <table>
-<tr>
-<td valign="center">
-  <p>
-  👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
-✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
-😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
-🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
-🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
-</p>
-</td>
-<td>
-<a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
-</td>
-</tr>
+  <tr>
+    <td valign="center">
+      <p>
+        👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
+        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
+        😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
+        🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
+        🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
+        💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
+      </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+    </td>
+  </tr>
 </table>
 
 ## My Portfolio:
@@ -31,13 +31,19 @@
 
 ## My Github Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Dunsin Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Dunsin Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&layout=compact&bg_color=0F182A&text_color=fffff0" alt="Dunsin Tech" />
-</p>
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Dunsin Stats" />
+    </td>
+    <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Dunsin Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&layout=compact&bg_color=0F182A&text_color=fffff0" alt="Dunsin Tech" />
+    </td>
+  </tr>
+</table>
 
 ## Languages, Frameworks and Tools i use:
 
