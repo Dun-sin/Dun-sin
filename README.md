@@ -47,48 +47,67 @@
 
 ## Languages, Frameworks and Tools i use:
 
-<p align="center"> 
   &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+ 
   &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-  <img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-  &emsp;
-  <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+
   &emsp; 
-  <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+
   &emsp;
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+ 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+   
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
+  
+
   &emsp;
-  <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+  
   &emsp;
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-  &emsp;
-</p>
+  
 
 <table>
   <tr>
     <td>
-      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin)
+        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </td>
     <td>
-      ![GitHub metrics](https://metrics.lecoq.io/dun-sin)
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    </td>
+    <td>
+       <img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+    </td>
+    <td>
+        <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+    </td>
+    <td>
+        <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+    </td>
+    <td>
+       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    </td>
+    <td>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+        </a> 
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">   
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+      </a>
+    </td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+    </td>
+    <td>
+      <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
     </td>
   </tr>
 </table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin)
+![GitHub metrics](https://metrics.lecoq.io/dun-sin)
 
 ## Connect with me:
 
