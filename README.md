@@ -7,7 +7,9 @@
 
 ## Wonderful Intro
 
-<p align="center" width="200">
+<table>
+<tr>
+<td valign="center">
   <p>
   👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
 ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
@@ -16,9 +18,12 @@
 🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
 💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
 </p>
-</p>
-
-<p align="center"><a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+</td>
+<td>
+<a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+</td>
+</tr>
+</table>
 
 ## My Portfolio:
 
