@@ -79,8 +79,16 @@
   &emsp;
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin) 
-![GitHub metrics](https://metrics.lecoq.io/dun-sin)  
+<table>
+  <tr>
+    <td>
+      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin)
+    </td>
+    <td>
+      ![GitHub metrics](https://metrics.lecoq.io/dun-sin)
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 
