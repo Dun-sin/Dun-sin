@@ -85,7 +85,6 @@
   </table>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin)
-![GitHub metrics](https://metrics.lecoq.io/dun-sin)
 
 ## Connect with me:
 
