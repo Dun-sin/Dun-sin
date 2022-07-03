@@ -2,7 +2,6 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/78784850/177004422-cdbd3a82-1d21-4947-8d3a-b648e3d63718.png" alt="header" border="0"></a>
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Dun-sin/Dun-sin?color=0F182A&style=for-the-badge)](https://github.com/Dun-sin)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev)
 
 ## Wonderful Intro
