@@ -33,13 +33,13 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=Dun-sin&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Dunsin Stats" />
+       <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dun-sin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Dunsin Streak" />
+       <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&layout=compact&bg_color=0F182A&text_color=fffff0" alt="Dunsin Tech" />
+      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@
     </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dun-sin)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Connect with me:
 
