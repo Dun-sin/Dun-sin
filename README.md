@@ -3,7 +3,10 @@
 </p>
 
 
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev) <br/>
+<a href="https://www.buymeacoffee.com/dunsincodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> 
+<br />
+<br />
 
 ## Wonderful Intro
 
