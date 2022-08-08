@@ -2,11 +2,10 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/78784850/179705920-8c155666-7451-4e5d-9bc2-1d969b65963e.png" alt="header" border="0"></a>
 </p>
 
+[![Community Link](https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png)](https://discord.gg/KUWjx4fygJ)
+<br />
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev) 
 
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev) <br/>
-<a href="https://www.buymeacoffee.com/dunsincodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> 
-<br />
-<br />
 
 ## Wonderful Intro
 
@@ -27,6 +26,11 @@
     </td>
   </tr>
 </table>
+
+## Show your support
+<a href="https://www.buymeacoffee.com/dunsincodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> 
+<br />
+<br />
 
 ## My Portfolio:
 
