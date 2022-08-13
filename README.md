@@ -13,12 +13,19 @@
   <tr>
     <td valign="center">
       <p>
-        👀 &nbsp;A girl in tech who does cool and awesome things and who loves to make life easier and fun with code.<br/>
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).<br/>
-        😍 &nbsp;I'm 18 years old and in my 4th year at university studying computer science.<br/>
-        🚀 &nbsp;My hobbies include reading(Fiction and Non-Fiction), playing video games and coding (as a Developer and all). Watching movies and listening to music<br/>
-        🙂 &nbsp;I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this😂), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-        💞️ &nbsp;Follow my github to stay updated on my amazing projects.<br/>
+        👀 &nbsp;I love to build and make life easier and fun with code.
+        <br/>
+        <br/>
+        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
+        <br/>
+        <br/> 
+        🚀 &nbsp;I love Opensource.
+        <br/>
+        <br/>
+        🙂 &nbsp; I'm a content creator on Instagram.
+        <br/>
+        <br/>
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.<br/>
       </p>
     </td>
     <td>
