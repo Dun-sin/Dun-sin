@@ -19,7 +19,7 @@
         ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
         <br/>
         <br/> 
-        🚀 &nbsp;I love Opensource.
+        🚀 &nbsp;I love contributing to Opensource.
         <br/>
         <br/>
         🙂 &nbsp; I'm a content creator on Instagram.
