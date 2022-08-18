@@ -19,11 +19,11 @@
         <br/>
         <br />
         <h2>Show your support</h2>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="260" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br/>
         <h2>Twitter and Discord Community</h2>
-        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" alt="Community Link"/></a>
+        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="260" alt="Community Link"/></a>
         <br/>
         <br/>
         <a href="https://twitter.com/DunsinWebDev">
