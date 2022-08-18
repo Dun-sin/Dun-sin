@@ -1,29 +1,35 @@
 [![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://dunsin.vercel.app/)
 
-[![Community Link](https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png)](https://discord.gg/KUWjx4fygJ)
-<br />
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/DunsinWebDev) 
-
-
 ## Wonderful Intro
 
 <table>
   <tr>
     <td valign="center">
       <p>
+        <h2>Hello👋🏾</h2>
         👀 &nbsp;I love to build and make life easier and fun with code.
-        <br/>
         <br/>
         ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
         <br/>
-        <br/> 
         🚀 &nbsp;I love contributing to Opensource.
-        <br/>
         <br/>
         🙂 &nbsp; I'm a content creator on Instagram.
         <br/>
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.<br/>
+        <br />
+        <h2>Show your support</h2>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> <a/>
+        <br/>
+        <br/>
+        <h2>Twitter and Discord Community</h2>
+        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" alt="Community Link"/></a>
+        <br/>
+        <br/>
+        <a href="https://twitter.com/DunsinWebDev">
+          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+        <br />
+        <br />
       </p>
     </td>
     <td>
@@ -31,11 +37,6 @@
     </td>
   </tr>
 </table>
-
-## Show your support
-<a href="https://www.buymeacoffee.com/dunsincodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support me by buying me a coffee" /> 
-<br />
-<br />
 
 ## My Portfolio:
 
