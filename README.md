@@ -18,7 +18,7 @@
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
-        <h2>Show your support</h2>
+        <h2>Support Me</h2>
         <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="260" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br/>
