@@ -22,7 +22,7 @@
         <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="260" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br/>
-        <h3>Twitter and Discord Community</h3>
+        <h3>Twitter & Discord Community</h3>
         <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="260" alt="Community Link"/></a>
         <br/>
         <br/>
