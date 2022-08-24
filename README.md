@@ -19,17 +19,16 @@
         <br/>
         <br />
         <h3>Support Me</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="260" alt="support me by buying me a coffee" /> <a/>
-        <br/>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="260" alt="Community Link"/></a>
-        <br/>
+        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
         <br/>
         <a href="https://twitter.com/DunsinWebDev">
           <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
         <br />
-        <br />
+        <a href="https://dunsin.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       </p>
     </td>
     <td>
@@ -38,9 +37,20 @@
   </tr>
 </table>
 
-## My Portfolio:
-
-**[Click Here](https://dunsin.vercel.app)**.
+## My Projects
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Dun-sin/anon-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=anon-chat-app" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Dun-sin/trick-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=trick-generator" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
+    </td>
+  </tr>
+</table>
 
 ## My Github Stats:
 
