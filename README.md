@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-## Languages, Frameworks and Tools i use:
+## Languages, Frameworks and Tools I use:
   <table>
     <tr>
   <td>
