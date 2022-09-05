@@ -7,7 +7,7 @@
     <td valign="center">
       <p>
         <h3>Hello👋🏾</h3>
-        👀 &nbsp;I love to build and make life easier and fun with code.
+        👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
         ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
         <br/>
