@@ -5,6 +5,8 @@
 <table>
   <tr>
     <td valign="center">
+      <a href="https://dunsin.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
@@ -27,10 +29,7 @@
         <br/>
         <a href="https://twitter.com/DunsinWebDev">
           <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-        <br />
-        <a href="https://dunsin.vercel.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-      </p>
+       </p>
     </td>
     <td>
       <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
