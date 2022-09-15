@@ -52,7 +52,7 @@
   <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
 </p>
 
-## Technologies I use && My Github Stats:
+## My Github Stats && Technologies I use:
 <table>
   <tr>
     <td>
@@ -178,11 +178,10 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
           </a>
         <p align="center">Firebase</p>
-      </p>
-      
+      </p>      
     </td>
     <td>
-      <p>
+      <p align="center">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
         </a>
