@@ -43,18 +43,14 @@
     <td>
       <a href="https://github.com/Dun-sin/anon-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=anon-chat-app" /></a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Dun-sin/trick-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=trick-generator" /></a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
-    </td>
-  </tr>
 </table>
+<p align="center">
+  <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
+</p>
 
 ## My Github Stats:
 
