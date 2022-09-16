@@ -44,7 +44,7 @@
       <a href="https://github.com/Dun-sin/anon-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=anon-chat-app" /></a>
     </td>
     <td>
-      <a href="https://github.com/Dun-sin/trick-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=trick-generator" /></a>
+      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
     </td>
   </tr>
 </table>
