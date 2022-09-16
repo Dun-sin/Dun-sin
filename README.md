@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Dun-sin/anon-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=anon-chat-app" /></a>
+      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
     </td>
     <td>
       <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
