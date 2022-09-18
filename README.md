@@ -11,8 +11,6 @@
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
-        <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
         🙂 &nbsp; I'm a content creator on Instagram.
