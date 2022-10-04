@@ -15,7 +15,7 @@
         <br/>
         🙂 &nbsp; I'm a content creator on Instagram.
         <br/>
-        🧑🏽‍💻 &nbsp; Open to Internships and Part time opportunities, contact me on twitter
+        🧑🏽‍💻 &nbsp; Open to Internships and Part time opportunities
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
