@@ -48,9 +48,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <a href="https://github.com/Dun-sin/smartsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=smartsearch" /></a>
-</p>
 
 ## My Github Stats && Technologies I use:
 <table>
