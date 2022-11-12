@@ -11,11 +11,11 @@
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
-        🚀 &nbsp;I love contributing to Opensource.
+        🚀 &nbsp;I love contributing to Opensource Projects
         <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
+        🙂 &nbsp;I'm a content creator on Instagram.
         <br/>
-        🧑🏽‍💻 &nbsp; Open to work opportunities
+        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://dunsin.vercel.app/">my portfolio</a>
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
