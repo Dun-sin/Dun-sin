@@ -37,7 +37,8 @@
   </tr>
 </table>
 
-## Checkout My Projects, don't hesitate to give them a stars if you like the idea, thank you👇🏽
+## Checkout My Projects
+#### don't hesitate to give them a stars if you like the idea, thank you👇🏽
 <table>
   <tr>
     <td>
