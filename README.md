@@ -6,7 +6,8 @@
   <tr>
     <td valign="center">
       <a href="https://dunsin.vercel.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
+        <img src="https://komarev.com/ghpvc/?username=Dun-sin&&style=flat-square" align="center" />
       <p>
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
@@ -197,7 +198,7 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Dun-sin/Code-Magic)
 
 ## Connect with me:
 
