@@ -204,6 +204,6 @@
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/favour-faiyetole-99a438229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DunsinWebDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
