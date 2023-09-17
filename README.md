@@ -40,13 +40,16 @@
 
 ## Checkout My Projects
 #### don't hesitate to give them a star if you like the idea, thank you👇🏽
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
     </td>
     <td>
       <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Dun-sin/Threstagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Threstagram" /></a>
     </td>
   </tr>
 </table>
@@ -55,17 +58,16 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dun-sin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="https://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
     <a href="https://www.github.com/Dun-sin">
         <img src="https://api.vaunt.dev/v1/github/entities/dun-sin/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
     </td>
-  <tr>
+    <td>
+      <a href="https://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+<table>
   <tr>
     <td>
       <p align="center">
@@ -91,8 +93,6 @@
         <p align="center">HTML5</p>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>            
       <p align="center">
         <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
@@ -117,9 +117,6 @@
         <p align="center">CSS</p>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -144,9 +141,6 @@
         <p align="center">ExpressJS</p>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td>             
       <p align="center">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -155,6 +149,8 @@
         <p align="center">MongoDB</p>
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <p align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -171,8 +167,6 @@
         <p align="center">Adobe XD</p>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <p align="center">
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
