@@ -28,7 +28,7 @@
         <h3>Twitter & Discord Community</h3>
         <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
         <br/>
-        <a href="https://twitter.com/DunsinWebDev">
+        <a href="https://twitter.com/dunsincodes">
           <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
