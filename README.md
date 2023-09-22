@@ -48,6 +48,8 @@
     <td>
       <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Dun-sin/Threstagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Threstagram" /></a>
     </td>
