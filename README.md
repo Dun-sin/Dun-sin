@@ -21,10 +21,6 @@
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
-        <h3>Show your Support🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
-        <br/>
-        <br />
         <h3>Twitter & Discord Community</h3>
         <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
         <br/>
