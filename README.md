@@ -39,20 +39,18 @@
 <table align="center">
   <tr>
     <td>
+      <a href="https://github.com/OpenSourcePal/OpenSourcePal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenSourcePal&repo=OpenSourcePal" /></a>
+    </td>
+    <td>
       <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Dun-sin/Threstagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Threstagram" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/OpenSourcePal/OpenSourcePal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenSourcePal&repo=OpenSourcePal" /></a>
     </td>
   </tr>
 </table>
