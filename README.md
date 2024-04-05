@@ -195,8 +195,6 @@
   </tr>
 </table>
 
-[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Dun-sin/Code-Magic)
-
 ## Connect with me:
 
 <p align="center">
