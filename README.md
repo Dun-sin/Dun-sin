@@ -50,7 +50,7 @@
       <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
     </td>
     <td>
-      <a href="https://github.com/Dun-sin/Threstagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Threstagram" /></a>
+      <a href="https://github.com/Dun-sin/HearItFresh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=HearItFresh" /></a>
     </td>
   </tr>
 </table>
